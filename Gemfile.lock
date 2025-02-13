@@ -28,7 +28,7 @@ GEM
     pry-byebug (3.10.1)
       byebug (~> 11.0)
       pry (>= 0.13, < 0.15)
-    rack (2.2.6.4)
+    rack (2.2.11)
     rack-protection (3.0.5)
       rack
     ruby2_keywords (0.0.5)
@@ -51,6 +51,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   better_errors
